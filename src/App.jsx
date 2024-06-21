@@ -4,7 +4,6 @@ import Home from '@mui/icons-material/Home'
 import Button from '@mui/material/Button'
 import pink from '@mui/material/colors/pink'
 
-
 function App() {
   return (
     <>
@@ -16,7 +15,6 @@ function App() {
       <br />
       <AccessAlarm />
       <ThreeDRotation />
-      {/* <YouTube/> */}
       <Home />
       <Home color='primary' />
       <Home color='secondary' />
