@@ -40,7 +40,7 @@ module.exports = {
     'no-restricted-imports': [
       'error',
       {
-        'patterns': ['@mui/material/*/*']
+        patterns: ['@mui/material/*/*']
       }
     ]
   }
